@@ -336,7 +336,6 @@ Included:
 - generated action files
 - visualization scripts
 - output images
-- official competition statement
 
 No additional files are required for testing.
 
