@@ -22,7 +22,6 @@ My attempt at solving the **Google Hash Code 2022 World Final Round** problem:
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
 - [Solution Approach](#solution-approach)
-- [Repository Structure](#repository-structure)
 - [Input Files](#input-files)
 - [Running the Solver](#running-the-solver)
 - [Visualization Tools](#visualization-tools)
@@ -89,22 +88,6 @@ Main implementation:
 
 ```txt
 Main.cpp
-```
-
----
-
-# Repository Structure
-
-```txt
-.
-├── Main.cpp
-├── plot.py
-├── cumulativeMaximums.py
-├── hashcode_2022_final_round.pdf
-├── input/
-├── actions/
-├── images/
-└── README.md
 ```
 
 ---
